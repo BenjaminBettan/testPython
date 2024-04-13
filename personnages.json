@@ -1,0 +1,20 @@
+[
+  {
+    "name": "John",
+    "age": 30,
+    "city": "New York",
+    "weapon": "Epée"
+  },
+  {
+    "name": "Alice",
+    "age": 25,
+    "city": "Los Angeles",
+    "weapon": "baguette magique basique"
+  },
+  {
+    "name": "Bob le paysan",
+    "age": 35,
+    "city": "Chicago",
+    "weapon": "néant"
+  }
+]
