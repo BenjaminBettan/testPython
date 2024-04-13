@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Cloud",
+    "stamina": 500,
+    "weapon" : 20
+  },
+  {
+    "name": "Barret",
+    "stamina": 400,
+    "weapon" : 30
+  }
+]

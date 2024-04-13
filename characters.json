@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Cloud",
+    "age": 25,
+    "weapon": "Sword",
+    "strength": 50,
+    "stamina": 500,
+    "agility" : 30,
+    "instinct" : 30,
+    "aggressiveness" : 20
+  },
+  {
+    "name": "Barret",
+    "age": 25,
+    "weapon": "Sword",
+    "strength": 100,
+    "stamina": 500,
+    "agility" : 10,
+    "instinct" : 10,
+    "aggressiveness" : 30
+  }
+]
